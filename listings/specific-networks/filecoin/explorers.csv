@@ -10,6 +10,8 @@ filfox-calibnet,,!offer:filfox,"[""[Explore](https://calibration.filfox.info/en)
 filfox-mainnet,,!offer:filfox,"[""[Explore](https://filfox.info/en/)""]",mainnet,,,,,,,,,,,
 filscan-calibnet,,!offer:filscan,"[""[Explore](https://calibration.filscan.io/)""]",calibnet,,,,,,,,,,,
 filscan-mainnet,,!offer:filscan,"[""[Explore](https://filscan.io)""]",mainnet,,,,,,,,,,,
+pdp-explorer-calibnet,,!offer:pdp-explorer,,calibnet,,,,,,,,,,,
+pdp-explorer-mainnet,,!offer:pdp-explorer,,mainnet,,,,,,,,,,,
 starboard-mainnet,,!offer:starboard,,mainnet,,,,,,,,,,,
 uviblock-calibnet,,!offer:uviblock,,calibnet,,,,,,,,,,,
 uviblock-mainnet,,!offer:uviblock,,mainnet,,,,,,,,,,,
